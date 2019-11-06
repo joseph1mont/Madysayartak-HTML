@@ -1,4 +1,4 @@
-var mybutton = document.getElementById("myBtn");
+var mybutton = document.getElementByClassName("madySayartak");
 window.onscroll = function() {
   scrollFunction()
 };
